@@ -1,0 +1,46 @@
+  {
+  "data" : [
+    {
+      "id": "1",
+      "avatar": "qwer.jpg",
+      "firstName": "abc",
+      "lastName": "zxc",
+      "userName": "abc@gmail.com"
+    },
+    {
+      "id": "2",
+      "avatar": "ffvae.png",
+      "firstName": "efg",
+      "lastName": "vbn",
+      "userName": "efg@gmail.com"
+    },
+    {
+      "id": "3",
+      "avatar": "askdj.jpg",
+      "firstName": "hij",
+      "lastName": "mlk",
+      "userName": "hij@gmail.com"
+    },
+    {
+      "id": "4",
+      "avatar": "askdj.jpg",
+      "firstName": "hij",
+      "lastName": "mlk",
+      "userName": "hij@gmail.com"
+    },
+    {
+      "id": "5",
+      "avatar": "kdjs.jpg",
+      "firstName": "adkjcn",
+      "lastName": "mlaksjnk",
+      "userName": "adkjcn@gmail.com"
+    },
+    {
+      "id": "6",
+      "avatar": "adjknc.jpg",
+      "firstName": "kdjnjakn",
+      "lastName": "mlkaskjdc",
+      "userName": "kdjnjakn@gmail.com"
+    }
+  ]
+}
